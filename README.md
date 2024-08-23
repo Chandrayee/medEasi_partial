@@ -1,2 +1,2 @@
 # medEasi_partial
-Partial code for personalized text simplification
+This repository contains part of the code for retrieval-augmented text simplification.
